@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.hero-swipper{
+    height: 100vh;
+}
+.btn-clr a{
+    text-decoration: none;
+    color: #fff;
+}
